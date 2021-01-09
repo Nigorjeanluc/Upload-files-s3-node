@@ -1,0 +1,5 @@
+{
+    "ignore": ["node_modules"],
+    "watch": ["src", "package-lock.json"],
+    "exec": "babel-node --extensions src/index.js"
+}
